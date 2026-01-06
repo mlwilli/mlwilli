@@ -20,7 +20,6 @@
 📍 United States  
 🔗 **GitHub:** https://github.com/mlwilli  
 🔗 **LinkedIn:** https://www.linkedin.com/in/marcus-williams-393853118/  
-📧 **Contact:** 📧 <small>35179617+mlwilli@users.noreply.github.com</small>
 
 ---
 
