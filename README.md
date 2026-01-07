@@ -1,4 +1,4 @@
-# Marcus L. Williams
+# Marcus Williams
 **Software Engineer | Full-Stack Developer | Distributed Systems**
 
 [![Java](https://img.shields.io/badge/Java-Enterprise-blue)](https://www.oracle.com/java/)
